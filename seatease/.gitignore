@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+target/
+
+# Environment files with real credentials
+.env
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Build output
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
